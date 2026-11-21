@@ -1,19 +1,19 @@
 {
   "app": "Cari Art Design",
-  "updated": "2026-09-19",
+  "updated": "2026-11-21",
   "englishPolicy": "../index.html",
   "storeLocaleSources": [
     "App Store Connect",
     "Google Play"
   ],
   "locales": [
-    "en-US",
     "ar",
     "ca",
     "cs",
     "da",
     "de",
     "el",
+    "en-US",
     "es",
     "fi",
     "fr",
